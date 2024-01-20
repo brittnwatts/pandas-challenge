@@ -5,9 +5,23 @@ Brittney Watts
 Pandas_Challenge : PyCitySchools 
 
 
-This challenge served as a way to teach us how to perform calculations with Pandas, and analyze data in a real-world scenario. I read in the data from the CSV files and separated the values to perform calculations and analyze causation to present my findings to the city. I performed calculations to find the effects of variables like school size, school budget, and school types on the passing rates for students. Among many things, I was able to find out the number of students passing in every school, and their average scores based on factors like budget, school sizes, and school types!
+This challenge served as a way to teach us how to perform calculations with Pandas,
+and analyze data in a real-world scenario. I read in the data from the CSV files 
+and separated the values to perform calculations and analyze causation to present 
+my findings to the city. I performed calculations to find the effects of variables 
+like school size, school budget, and school types on the passing rates for students. 
+Among many things, I was able to find out the number of students passing in every school, 
+and their average scores based on factors like budget, school sizes, and school types!
 
 From the calculations, the most distinct conclusions I could find from the dataset are as follows:
 
-1. Charter school students had significantly higher scores than public school students. The math and reading scores were much higher, and overall, the passing rate was 36.76% higher for charter school students. 
-2. Schools who had smaller spending ranges had significantly higher passing rates than schools with higher spending ranges. From every scores and passing rate category (Avg Math Scores, Avg Reading Scores, Passing Math Scores, Overall Passing), we see that spending ranges are directly proportionate to the passing rates among ever single spending range. For example, in Average Reading Scores, the lower the spending range per student, the higher the math score. This is so in every single instance in the dataset! This is the most important finding because it will let the school board and mayor modify their funding to help students perform better at school. However, there are always lurking variables!!!!
+1. Charter school students had significantly higher scores than public school students. 
+The math and reading scores were much higher, and overall, the passing rate was 36.76% higher for charter school students. 
+2. Schools who had smaller spending ranges had significantly higher passing rates than schools 
+with higher spending ranges. From every scores and passing rate category (Avg Math Scores, Avg Reading Scores, 
+Passing Math Scores, Overall Passing), we see that spending ranges are directly proportionate 
+to the passing rates among ever single spending range. For example, in Average Reading Scores, 
+the lower the spending range per student, the higher the math score. This is so in every single 
+instance in the dataset! This is the most important finding because it will let the school board 
+and mayor modify their funding to help students perform better at school. 
+However, there are always lurking variables!!!!
